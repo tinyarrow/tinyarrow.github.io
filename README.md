@@ -1,18 +1,24 @@
-# 程序员的浪漫
+# 🕐 恋爱计时器
+> 🎉 细水长流
 
-## 示例网页
-[http://thinkhard.tech/romantic_page/](http://thinkhard.tech/romantic_page/)
+### 💻 PC 端
 
-## 使用方法
+浏览器 Google Chrome 首选。
 
-原来 Gitpages 还可以这么使用，如果正在使用 Gitpages 搭建博客的话，可以将同个账号下另一个仓库 Html 网页进行显示,访问地址示例为
+[http://timer.chenjiandongx.com](http://timer.chenjiandongx.com)
 
-`http://userName.github.io/romantic_page`
+### 📱 移动端
 
-![demo](https://ws1.sinaimg.cn/large/c3a916a7gy1fnqsygoap5j20le09e3z7.jpg)
+请扫描二维码体验，建议转换为默认浏览器打开。
 
-## 效果图
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/19553554/45627217-02e94b00-bac4-11e8-96bb-e5c7ce22acf7.png">
+</div>
 
-![](./result.gif)
+### 👀 预览
 
-点 **Star** 或者 **Fork 的人**，祝你们幸福哦 ~
+![preview](https://user-images.githubusercontent.com/19553554/45737479-8324c300-bc20-11e8-9ce1-111f3b67bfda.png)
+
+
+## License
+MIT [©chenjiandongx](https://github.com/chenjiandongx) ONLY FOR MY PRETTY GIRL
